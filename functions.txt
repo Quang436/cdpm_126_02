@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 SUB
 MUL
 DIV
 MOD
+=======
+ADD
+>>>>>>> 179089d ([FPT-06] Remove addition)
