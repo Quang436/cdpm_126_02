@@ -1,3 +1,6 @@
+# v1.0.1 - 20261105
+* [CDPM-06] Remove add function [PR#8](https://github.com/Quang436/cdpm_126_02/pull/8)
+
 # v1.0.0 - 20261105
 * [CDPM-01] Implement add function [PR#1](https://github.com/Quang436/cdpm_126_02/pull/1)
 * [CDPM-02] Implement sub function [PR#3](https://github.com/Quang436/cdpm_126_02/pull/3)
